@@ -1,7 +1,5 @@
-# NOA
-The NOA tag represents a commitment to preserving the integrity of software development by keeping projects free of political, cultural, or personal biases.
-
 <img src="noa.png" alt="noa-tag">
+The NOA tag represents a commitment to preserving the integrity of software development by keeping projects free of political, cultural, or personal biases.
 
 **NOA Manifesto**
 
@@ -61,5 +59,7 @@ NOA is more than a tag; it’s a movement to restore focus, integrity, and neutr
 
 **Join the NOA Movement**
 Let’s ensure that software remains a tool for progress, not propaganda. Declare your commitment to NOA values and help build a future where great software stands untainted and truly free.
+
+<img src="noa.png" alt="noa-tag" style="width:64px; height:auto;">
 
 
