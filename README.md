@@ -48,9 +48,7 @@ It’s not about perfection but about creating a way to identify and support pro
 5. **Non-Corporate Influence**
    - NOA projects reject funding, sponsorship, or partnerships that could compromise their independence. Financial contributions must be free of conditions that conflict with NOA values.
    - The goal is to avoid the "embrace, extend, and extinguish" tactics often used by corporations to dominate and undermine independent projects.
-
-Got it, bud! Here's a clean and to-the-point **Funding** section:  
-
+  
 ---
 
 ### **Funding**  
