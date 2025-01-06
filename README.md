@@ -7,6 +7,26 @@ The NOA tag represents a commitment to preserving the integrity of software deve
 
 The NOA tag represents a commitment to preserving the integrity of software development by keeping projects free of political, cultural, or personal biases. Similar to the FOSS tag, NOA establishes principles for creating and maintaining projects that focus purely on technical excellence, transparency, and inclusivity in the truest sense, free from any form of ideological influence. This manifesto outlines the core values and expectations of NOA-tagged projects.
 
+
+### Why "Manifesto"?  
+
+While "manifesto" is often tied to politics, it simply means a declaration of principles. The irony isn’t lost on us, but the choice was intentional to signal a clear, bold commitment to neutrality and technical excellence.  
+
+This project isn’t about creating a bias-free world—that’s unrealistic. Instead, it’s a call to critically challenge biases in software. Like the Pythagorean theorem, great tools can be apolitical, keeping both the tools and their creators separate from ideological meddling.
+
+### Personal Beliefs Are Irrelevant
+
+What contributors believe or do in their free time is their own business. NOA projects are committed to judging contributions solely on their technical merit. As long as someone’s actions outside the project aren’t criminal and their work meets the project’s standards, their beliefs, whether about politics, aliens, or Earth shape related, are irrelevant.
+The focus is on the code, not the contributor. Leave personal ideologies at the door, and let’s build something great together.
+
+### The NOA Tag: A Personal Commitment
+
+The NOA tag isn’t a policing mechanism—it’s a pledge. By adopting it, a project commits to these principles as a guide, striving to embody them to the best of its ability. There’s no enforcement body, just transparency and accountability.
+
+The goal is to put systems in place that make adherence to NOA values visible and measurable. This transparency empowers users and contributors to see if a project truly prioritizes technical improvement, neutrality, and dedication to its stated purpose.
+
+It’s not about perfection but about creating a way to identify and support projects that aim to innovate without distractions, staying focused on the work they advocate for.
+
 ### **Core Principles of NOA**
 
 1. **Neutrality**
@@ -28,6 +48,36 @@ The NOA tag represents a commitment to preserving the integrity of software deve
 5. **Non-Corporate Influence**
    - NOA projects reject funding, sponsorship, or partnerships that could compromise their independence. Financial contributions must be free of conditions that conflict with NOA values.
    - The goal is to avoid the "embrace, extend, and extinguish" tactics often used by corporations to dominate and undermine independent projects.
+
+Got it, bud! Here's a clean and to-the-point **Funding** section:  
+
+---
+
+### **Funding**  
+
+For a project to qualify as NOA-tagged, its funding must be transparent and fully allocated to the project's core objectives. Donations, grants, or other forms of financial support intended for the project must not be diverted to unrelated ventures.  
+
+- **Core Focus of Funds**  
+   Money raised for the project must directly contribute to its improvement, such as:  
+   - Enhancing core features.  
+   - Resolving bugs and technical issues.  
+   - Advancing innovation directly tied to the project’s goals.  
+
+- **No Unrelated Spending**  
+   Funds must not be used for external initiatives, ideological pursuits, or ventures unrelated to the specific project for which the money was donated. Examples of misallocation include:  
+   - A browser project funding conferences or studies unrelated to web development.  
+   - An operating system allocating resources to social initiatives instead of improving the OS.  
+   - A kernel project investing in startups outside of kernel or system-level advancements.  
+
+- **Transparency and Accountability**  
+   All financial transactions must be publicly disclosed, detailing:  
+   - The sources of funding and their amounts.  
+   - Clear descriptions of how funds were spent, ensuring alignment with the project's core mission.  
+
+- **Separate Ventures, Separate Funding**  
+   If the team wishes to pursue other projects or ventures, those must be funded independently. Mixing funds or using resources meant for one project to support another undermines trust and violates NOA principles.  
+
+By adhering to these principles, NOA projects ensure that every dollar serves its intended purpose—advancing the core project for which it was entrusted.  
 
 ### **Commitments of NOA-Tagged Projects**
 
